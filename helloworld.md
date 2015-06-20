@@ -1,3 +1,4 @@
 ##Hello World!!
-###Sample MarkDown file
+## This is a markdown file
+###Sample file
 ####Rakesh Adhikesavan
